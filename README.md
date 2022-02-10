@@ -1,5 +1,5 @@
 # COGS189-IT-Crowd
-Winter 2022 <br>
+<h3>Winter 2022</h3> <br>
 Group Member:<br>
 Yutong Jiang<br>
 Yufei Deng<br>
